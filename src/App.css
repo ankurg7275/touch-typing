@@ -1,0 +1,22 @@
+.correct{
+    font-weight: bold;
+    color: green;
+}
+.incorrect{
+    font-weight: bold;
+    color: red;
+}
+
+.active{
+    font-weight: bold;
+    color: palevioletred;
+}
+
+body{
+    padding-left: 350px;
+    padding-top: 50px;
+}
+
+input{
+    width: 40%;
+}
